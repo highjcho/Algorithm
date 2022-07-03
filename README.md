@@ -10,4 +10,5 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 2 | Brute Force | [백준 2309: 일곱 난쟁이](https://www.acmicpc.net/problem/2309) |
 | 3 | Dynamic Programing | [백준 1463: 1로 만들기](https://www.acmicpc.net/problem/1463) |
 | 4 | Dynamic Programing | [백준 2579: 계단 오르기](https://www.acmicpc.net/problem/2579) |
-| 5 | Brute Force | [백준 2798: 블랙잭](https://www.acmicpc.net/problem/2798)
+| 5 | Brute Force | [백준 2798: 블랙잭](https://www.acmicpc.net/problem/2798) |
+| 6 | Dynamic Programing | [백준 1010: 다리 놓기](https://www.acmicpc.net/problem/2798) |
