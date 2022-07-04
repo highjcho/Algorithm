@@ -11,4 +11,5 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 3 | Dynamic Programing | [백준 1463: 1로 만들기](https://www.acmicpc.net/problem/1463) |
 | 4 | Dynamic Programing | [백준 2579: 계단 오르기](https://www.acmicpc.net/problem/2579) |
 | 5 | Brute Force | [백준 2798: 블랙잭](https://www.acmicpc.net/problem/2798) |
-| 6 | Dynamic Programing | [백준 1010: 다리 놓기](https://www.acmicpc.net/problem/2798) |
+| 6 | Dynamic Programing | [백준 1010: 다리 놓기](https://www.acmicpc.net/problem/1010) |
+| 7 | Dynamic Programing | [백준 11053: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
