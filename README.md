@@ -14,3 +14,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 6 | Dynamic Programing | [백준 1010: 다리 놓기](https://www.acmicpc.net/problem/1010) |
 | 7 | Dynamic Programing | [백준 11053: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |
 | 8 | Dynamic Programing | [백준 1309: 동물원](https://www.acmicpc.net/problem/1309) |
+| 9 | Brute Force | [백준 1536: 영화감독 숌](https://www.acmicpc.net/problem/1309) |
