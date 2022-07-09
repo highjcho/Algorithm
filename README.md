@@ -15,5 +15,6 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 7 | Dynamic Programing | [백준 11053: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |
 | 8 | Dynamic Programing | [백준 1309: 동물원](https://www.acmicpc.net/problem/1309) |
 | 9 | Brute Force | [백준 1536: 영화감독 숌](https://www.acmicpc.net/problem/1536) |
-| 10 | Brute Force | [백준 2116: 주사위 쌓기](https://www.acmicpc.net/problem/2116) |
-| 10 | Dynamic Programing | [백준 2839: 설탕 배달](https://www.acmicpc.net/problem/2839) |
+| 10 | Brute Force | [백준 1120: 문자열](https://www.acmicpc.net/problem/1120) |
+| 11 | Brute Force | [백준 2116: 주사위 쌓기](https://www.acmicpc.net/problem/2116) |
+| 12 | Dynamic Programing | [백준 2839: 문자열](https://www.acmicpc.net/problem/2839) |
