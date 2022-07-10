@@ -18,3 +18,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 10 | Brute Force | [백준 1120: 문자열](https://www.acmicpc.net/problem/1120) |
 | 11 | Brute Force | [백준 2116: 주사위 쌓기](https://www.acmicpc.net/problem/2116) |
 | 12 | Dynamic Programing | [백준 2839: 설탕 배달](https://www.acmicpc.net/problem/2839) |
+| 13 | Dynamic Programing | [백준 12865: 평범한 배낭](https://www.acmicpc.net/problem/12865) |
