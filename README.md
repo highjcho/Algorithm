@@ -22,3 +22,5 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 14 | Brute Force | [백준 1057: 토너먼트](https://www.acmicpc.net/problem/1057) |
 | 15 | Data Structure(stack) | [백준 10828: 스택](https://www.acmicpc.net/problem/10828) |
 | 16 | Data Structure(queue) | [백준 10845: 큐](https://www.acmicpc.net/problem/10845) |
+| 17 |  Data Structure(deque) | [백준 10866: 덱](https://www.acmicpc.net/problem/10866) |
+| 18 |  Data Structure(min-heap) | [백준 1927: 최소 힙](https://www.acmicpc.net/problem/1927) |
