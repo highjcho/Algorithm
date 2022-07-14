@@ -24,3 +24,5 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 16 | Data Structure(queue) | [백준 10845: 큐](https://www.acmicpc.net/problem/10845) |
 | 17 |  Data Structure(deque) | [백준 10866: 덱](https://www.acmicpc.net/problem/10866) |
 | 18 |  Data Structure(min-heap) | [백준 1927: 최소 힙](https://www.acmicpc.net/problem/1927) |
+| 19 |  Data Structure(max-heap) | [백준 11279: 최대 힙](https://www.acmicpc.net/problem/11279) |
+| 20 |  Data Structure(abs-heap) | [백준 11286: 절댓값 힙](https://www.acmicpc.net/problem/11286) |
