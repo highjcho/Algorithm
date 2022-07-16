@@ -27,3 +27,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 19 |  Data Structure(max-heap) | [백준 11279: 최대 힙](https://www.acmicpc.net/problem/11279) |
 | 20 |  Data Structure(abs-heap) | [백준 11286: 절댓값 힙](https://www.acmicpc.net/problem/11286) |
 | 21 |  Data Structure(min-heap) | [백준 1715: 카드 정렬하기](https://www.acmicpc.net/problem/1715) |
+| 22 |  Data Structure(deque) | [백준 1021: 회전하는 큐](https://www.acmicpc.net/problem/1021) |
