@@ -2,19 +2,19 @@
 deque rotate 활용
 '''
 
-import sys
-from collections import deque
+# import sys
+# from collections import deque
 
-n = int(sys.stdin.readline())
+# n = int(sys.stdin.readline())
 
-deq = deque(enumerate(map(int, sys.stdin.readline().split()), start=1))
-for i in range(n):
-	p = deq.popleft()
-	print(p[0], end=' ')
-	if p[1] > 0:
-		deq.rotate(-(p[1] - 1))
-	else:
-		deq.rotate(-p[1])
+# deq = deque(enumerate(map(int, sys.stdin.readline().split()), start=1))
+# for i in range(n):
+# 	p = deq.popleft()
+# 	print(p[0], end=' ')
+# 	if p[1] > 0:
+# 		deq.rotate(-(p[1] - 1))
+# 	else:
+# 		deq.rotate(-p[1])
 
 '''
 리스트 활용
@@ -23,23 +23,16 @@ for i in range(n):
 import sys
 
 n = int(sys.stdin.readline())
-data = list(map(int, sys.stdin.readline().split()))
-index = [x for x in range(1, n + 1)]
+data = list(enumerate((map(int, sys.stdin.readline().split())), start = 1))
 idx = 0
-ret = []
-temp = data.pop(idx)
-ret.append(index.pop(idx))
 
 while data:
-	if temp < 0:
-		idx = (idx + temp) % len(data)
-	else:
-		idx = (idx + (temp - 1)) % len(data)
-	temp = data.pop(idx)
-	ret.append(index.pop(idx))
-
-for r in ret:
-	print(r, end=' ')
+	ret = data.pop(idx)
+	print(ret[0], end=' ')
+	if ret[1] < 0 and data:
+		idx = (idx + ret[1]) % len(data)
+	elif ret[1] > 0 and data:
+		idx = (idx + (ret[1] - 1)) % len(data)
 
 '''
 딕셔너리 자료형 사용의 잘못된 예 ㅠ
