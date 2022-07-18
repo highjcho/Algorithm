@@ -9,7 +9,7 @@ for i in range(t):
 		heapq.heappush(hq, -idx_list[j][1])
 	cnt = 0
 	while cnt <= n:
-		if idx_list[0][1] == -hq[0] and m == idx_list[0][0]:
+		if idx_list[0][0] == m and idx_list[0][1] == -hq[0]:
 			cnt += 1
 			break
 		elif idx_list[0][1] == -hq[0]:
