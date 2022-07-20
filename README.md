@@ -30,3 +30,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 22 |  Data Structure(deque) | [백준 1021: 회전하는 큐](https://www.acmicpc.net/problem/1021) |
 | 23 |  Data Structure(deque) | [백준 2346: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
 | 24 | Data Structure(queue) | [백준 1966: 프린터 큐](https://www.acmicpc.net/problem/1966) |
+| 25 | Data Structure(stack) | [백준 12789: 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) |
