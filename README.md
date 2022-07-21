@@ -31,3 +31,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 23 |  Data Structure(deque) | [백준 2346: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
 | 24 | Data Structure(queue) | [백준 1966: 프린터 큐](https://www.acmicpc.net/problem/1966) |
 | 25 | Data Structure(stack) | [백준 12789: 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) |
+| 26 | Data Structure(stack) | [백준 11899: 괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |
