@@ -14,4 +14,3 @@ for i in range(n):
 		heapq.heappush(left, -heapq.heappop(right))
 		heapq.heappush(right, -heapq.heappop(left))
 	print(-left[0])
-	

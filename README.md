@@ -33,3 +33,5 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 25 | Data Structure(stack) | [백준 12789: 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) |
 | 26 | Data Structure(stack) | [백준 11899: 괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |
 | 27 | Data Structure(queue) | [백준 2075: N번째로 큰 수](https://www.acmicpc.net/problem/2075) |
+| 28 | Data Structure(queue) | [백준 1655: 가운데를 말해요](https://www.acmicpc.net/problem/1655) |
+| 29 | Data Structure(deque) | [백준 5430: AC](https://www.acmicpc.net/problem/5430) |
