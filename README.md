@@ -36,3 +36,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 28 | Data Structure(queue) | [백준 1655: 가운데를 말해요](https://www.acmicpc.net/problem/1655) |
 | 29 | Data Structure(deque) | [백준 5430: AC](https://www.acmicpc.net/problem/5430) |
 | 30 | Data Structure(stack) | [백준 5397: 키로거](https://www.acmicpc.net/problem/5397) |
+| 30 | Data Structure(queue) | [백준 13335: 트럭](https://www.acmicpc.net/problem/13335) |
