@@ -22,13 +22,13 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 14 | Brute Force | [백준 1057: 토너먼트](https://www.acmicpc.net/problem/1057) |
 | 15 | Data Structure(stack) | [백준 10828: 스택](https://www.acmicpc.net/problem/10828) |
 | 16 | Data Structure(queue) | [백준 10845: 큐](https://www.acmicpc.net/problem/10845) |
-| 17 |  Data Structure(deque) | [백준 10866: 덱](https://www.acmicpc.net/problem/10866) |
-| 18 |  Data Structure(min-heap) | [백준 1927: 최소 힙](https://www.acmicpc.net/problem/1927) |
-| 19 |  Data Structure(max-heap) | [백준 11279: 최대 힙](https://www.acmicpc.net/problem/11279) |
-| 20 |  Data Structure(abs-heap) | [백준 11286: 절댓값 힙](https://www.acmicpc.net/problem/11286) |
-| 21 |  Data Structure(min-heap) | [백준 1715: 카드 정렬하기](https://www.acmicpc.net/problem/1715) |
-| 22 |  Data Structure(deque) | [백준 1021: 회전하는 큐](https://www.acmicpc.net/problem/1021) |
-| 23 |  Data Structure(deque) | [백준 2346: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
+| 17 | Data Structure(deque) | [백준 10866: 덱](https://www.acmicpc.net/problem/10866) |
+| 18 | Data Structure(min-heap) | [백준 1927: 최소 힙](https://www.acmicpc.net/problem/1927) |
+| 19 | Data Structure(max-heap) | [백준 11279: 최대 힙](https://www.acmicpc.net/problem/11279) |
+| 20 | Data Structure(abs-heap) | [백준 11286: 절댓값 힙](https://www.acmicpc.net/problem/11286) |
+| 21 | Data Structure(min-heap) | [백준 1715: 카드 정렬하기](https://www.acmicpc.net/problem/1715) |
+| 22 | Data Structure(deque) | [백준 1021: 회전하는 큐](https://www.acmicpc.net/problem/1021) |
+| 23 | Data Structure(deque) | [백준 2346: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
 | 24 | Data Structure(queue) | [백준 1966: 프린터 큐](https://www.acmicpc.net/problem/1966) |
 | 25 | Data Structure(stack) | [백준 12789: 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) |
 | 26 | Data Structure(stack) | [백준 11899: 괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |
@@ -36,4 +36,5 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 28 | Data Structure(queue) | [백준 1655: 가운데를 말해요](https://www.acmicpc.net/problem/1655) |
 | 29 | Data Structure(deque) | [백준 5430: AC](https://www.acmicpc.net/problem/5430) |
 | 30 | Data Structure(stack) | [백준 5397: 키로거](https://www.acmicpc.net/problem/5397) |
-| 30 | Data Structure(queue) | [백준 13335: 트럭](https://www.acmicpc.net/problem/13335) |
+| 31 | Data Structure(queue) | [백준 13335: 트럭](https://www.acmicpc.net/problem/13335) |
+| 32 | BFS | [백준 2606: 바이러스](https://www.acmicpc.net/problem/2606) |
