@@ -37,4 +37,5 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 29 | Data Structure(deque) | [백준 5430: AC](https://www.acmicpc.net/problem/5430) |
 | 30 | Data Structure(stack) | [백준 5397: 키로거](https://www.acmicpc.net/problem/5397) |
 | 31 | Data Structure(queue) | [백준 13335: 트럭](https://www.acmicpc.net/problem/13335) |
-| 32 | BFS | [백준 2606: 바이러스](https://www.acmicpc.net/problem/2606) |
+| 32 | BFS & DFS(BFS) | [백준 2606: 바이러스](https://www.acmicpc.net/problem/2606) |
+| 33 | BFS & DFS(BFS & DFS) | [백준 1260: DFS와 BFS](https://www.acmicpc.net/problem/1260) |
