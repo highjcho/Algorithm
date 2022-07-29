@@ -29,38 +29,38 @@ for i in range(t):
 		print("[" + ",".join(n_li) + "]")
 		
 
-# from collections import deque
+from collections import deque
 
-# t = int(input())
+t = int(input())
 
-# for i in range(t):
-# 	p = input()
-# 	n = int(input())
-# 	arr = input()[1:-1].split(',')
+for i in range(t):
+	p = input()
+	n = int(input())
+	arr = input()[1:-1].split(',')
 
-# 	queue = deque(arr)
+	queue = deque(arr)
 
-# 	flag = 0
+	flag = 0
 
-# 	if n == 0:
-# 		queue = []
+	if n == 0:
+		queue = []
 
-# 	for j in p:
-# 		if j == 'R':
-# 			flag += 1
-# 		elif j == 'D':
-# 			if len(queue) == 0:
-# 				print("error")
-# 				break
-# 			else:
-# 				if flag % 2 == 0:
-# 					queue.popleft()
-# 				else:
-# 					queue.pop()
+	for j in p:
+		if j == 'R':
+			flag += 1
+		elif j == 'D':
+			if len(queue) == 0:
+				print("error")
+				break
+			else:
+				if flag % 2 == 0:
+					queue.popleft()
+				else:
+					queue.pop()
 
-# 	else: # error 후 여기에 안들어오는 이유가 뭐지?
-# 		if flag % 2 == 0:
-# 			print("[" + ",".join(queue) + "]")
-# 		else:
-# 			queue.reverse()
-# 			print("[" + ",".join(queue) + "]")
+	else: # error 후 여기에 안들어오는 이유가 뭐지? <- for - else 문!
+		if flag % 2 == 0:
+			print("[" + ",".join(queue) + "]")
+		else:
+			queue.reverse()
+			print("[" + ",".join(queue) + "]")

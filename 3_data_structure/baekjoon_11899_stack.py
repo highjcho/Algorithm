@@ -8,15 +8,14 @@ s = sys.stdin.readline().rstrip()
 stack = []
 ret = 0
 for c in s:
-	if c == '('
+	if c == '(':
 		stack.append(c)
 	else:
 		if stack:
 			stack.pop()
 		else:
 			ret += 1
-print(ret += len(stack))
-
+print(ret + len(stack))
 
 '''
 replace 함수 활용
