@@ -30,13 +30,15 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 22 | Data Structure(deque) | [백준 1021: 회전하는 큐](https://www.acmicpc.net/problem/1021) |
 | 23 | Data Structure(deque) | [백준 2346: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
 | 24 | Data Structure(queue) | [백준 1966: 프린터 큐](https://www.acmicpc.net/problem/1966) |
-| 25 | Data Structure(stack) | [백준 12789: 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) |
-| 26 | Data Structure(stack) | [백준 11899: 괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |
-| 27 | Data Structure(queue) | [백준 2075: N번째로 큰 수](https://www.acmicpc.net/problem/2075) |
-| 28 | Data Structure(queue) | [백준 1655: 가운데를 말해요](https://www.acmicpc.net/problem/1655) |
-| 29 | Data Structure(deque) | [백준 5430: AC](https://www.acmicpc.net/problem/5430) |
-| 30 | Data Structure(stack) | [백준 5397: 키로거](https://www.acmicpc.net/problem/5397) |
-| 31 | Data Structure(queue) | [백준 13335: 트럭](https://www.acmicpc.net/problem/13335) |
-| 32 | BFS & DFS(BFS) | [백준 2606: 바이러스](https://www.acmicpc.net/problem/2606) |
-| 33 | BFS & DFS(BFS & DFS) | [백준 1260: DFS와 BFS](https://www.acmicpc.net/problem/1260) |
-| 34 | BFS & DFS(DFS) | [백준 1012: 유기농 배추](https://www.acmicpc.net/problem/1012) |
+| 25 | Data Structure(queue) | [백준 1158: 요세푸스 문제](https://www.acmicpc.net/problem/1158) |
+| 26 | Data Structure(stack) | [백준 12789: 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) |
+| 27 | Data Structure(stack) | [백준 11899: 괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |
+| 28 | Data Structure(queue) | [백준 2075: N번째로 큰 수](https://www.acmicpc.net/problem/2075) |
+| 29 | Data Structure(queue) | [백준 1655: 가운데를 말해요](https://www.acmicpc.net/problem/1655) |
+| 30 | Data Structure(deque) | [백준 5430: AC](https://www.acmicpc.net/problem/5430) |
+| 31 | Data Structure(stack) | [백준 5397: 키로거](https://www.acmicpc.net/problem/5397) |
+| 32 | Data Structure(queue) | [백준 13335: 트럭](https://www.acmicpc.net/problem/13335) |
+| 33 | BFS & DFS(BFS) | [백준 2606: 바이러스](https://www.acmicpc.net/problem/2606) |
+| 34 | BFS & DFS(BFS & DFS) | [백준 1260: DFS와 BFS](https://www.acmicpc.net/problem/1260) |
+| 35 | BFS & DFS(DFS) | [백준 1012: 유기농 배추](https://www.acmicpc.net/problem/1012) |
+| 36 | BFS & DFS(DFS) | [백준 2644: 촌수계산](https://www.acmicpc.net/problem/2644) |
