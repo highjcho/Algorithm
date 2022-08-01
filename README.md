@@ -43,3 +43,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 35 | BFS & DFS(DFS) | [백준 1012: 유기농 배추](https://www.acmicpc.net/problem/1012) |
 | 36 | BFS & DFS(DFS) | [백준 2644: 촌수계산](https://www.acmicpc.net/problem/2644) |
 | 37 | BFS & DFS(BFS) | [백준 7562: 나이트의 이동](https://www.acmicpc.net/problem/7562) |
+| 38 | BFS & DFS(BFS) | [백준 9205: 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |
