@@ -45,3 +45,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 37 | BFS & DFS(BFS) | [백준 7562: 나이트의 이동](https://www.acmicpc.net/problem/7562) |
 | 38 | BFS & DFS(BFS) | [백준 9205: 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |
 | 39 | BFS & DFS(BFS) | [백준 2206: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
+| 40 | BFS & DFS(DFS) | [백준 11724: 연결 요소의 개수](https://www.acmicpc.net/problem/11724) |

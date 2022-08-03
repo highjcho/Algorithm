@@ -2,6 +2,8 @@ import sys
 from collections import deque
 
 input = sys.stdin.readline
+n, m = map(int, input().split())
+s = []
 x = [1, 0, -1, 0]
 y = [0, -1, 0, 1]
 
@@ -26,8 +28,6 @@ def bfs():
 					q.append([nx, ny, w])
 	return -1
 
-n, m = map(int, input().split())
-s = []
 for i in range(n):
 	s.append(list(map(int, list(input().strip()))))
 print(bfs())
