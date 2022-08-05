@@ -10,7 +10,7 @@ ret = 0
 ret_rg = 0
 
 for i in range(n):
-  g.append(list(map(str, input().strip())))
+  g.append(list(input().strip()))
 
 def dfs(cx, cy, c):
 	visit[cx][cy] = 1
