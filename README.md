@@ -49,3 +49,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 41 | BFS & DFS(DFS) | [백준 10026: 적녹색약](https://www.acmicpc.net/problem/10026) |
 | 42 | BFS & DFS(BFS) | [백준 1325: 효율적인 해킹](https://www.acmicpc.net/problem/1325) |
 | 43 | BFS & DFS(DFS) | [백준 1967: 트리의 지름](https://www.acmicpc.net/problem/1967) |
+| 44 | BFS & DFS(DFS) | [백준 2468: 안전 영역](https://www.acmicpc.net/problem/2468) |
