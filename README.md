@@ -52,3 +52,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 44 | BFS & DFS(DFS) | [백준 2468: 안전 영역](https://www.acmicpc.net/problem/2468) |
 | 44 | BFS & DFS(BFS & DFS) | [백준 14502: 연구소](https://www.acmicpc.net/problem/14502) |
 | 45 | BFS & DFS(BFS) | [백준 7576: 연구소](https://www.acmicpc.net/problem/7576) |
+| 46 | BFS & DFS(BFS) | [백준 1389: 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |
