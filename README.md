@@ -47,9 +47,11 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 39 | BFS & DFS(BFS) | [백준 2206: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
 | 40 | BFS & DFS(DFS) | [백준 11724: 연결 요소의 개수](https://www.acmicpc.net/problem/11724) |
 | 41 | BFS & DFS(DFS) | [백준 10026: 적녹색약](https://www.acmicpc.net/problem/10026) |
-| 42 | BFS & DFS(BFS) | [백준 1325: 효율적인 해킹](https://www.acmicpc.net/problem/1325) |
-| 43 | BFS & DFS(DFS) | [백준 1967: 트리의 지름](https://www.acmicpc.net/problem/1967) |
-| 44 | BFS & DFS(DFS) | [백준 2468: 안전 영역](https://www.acmicpc.net/problem/2468) |
-| 44 | BFS & DFS(BFS & DFS) | [백준 14502: 연구소](https://www.acmicpc.net/problem/14502) |
-| 45 | BFS & DFS(BFS) | [백준 7576: 연구소](https://www.acmicpc.net/problem/7576) |
-| 46 | BFS & DFS(BFS) | [백준 1389: 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |
+| 42 | BFS & DFS(DFS) | [백준 4963: 섬의 개수](https://www.acmicpc.net/problem/4963) |
+| 43 | BFS & DFS(BFS) | [백준 1325: 효율적인 해킹](https://www.acmicpc.net/problem/1325) |
+| 44 | BFS & DFS(DFS) | [백준 1967: 트리의 지름](https://www.acmicpc.net/problem/1967) |
+| 45 | BFS & DFS(DFS) | [백준 2468: 안전 영역](https://www.acmicpc.net/problem/2468) |
+| 46 | BFS & DFS(BFS & DFS) | [백준 14502: 연구소](https://www.acmicpc.net/problem/14502) |
+| 47 | BFS & DFS(BFS) | [백준 7576: 토마토](https://www.acmicpc.net/problem/7576) |
+| 48 | BFS & DFS(BFS) | [백준 1389: 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |
+| 49 | BFS & DFS(BFS) | [백준 2193: 이친수](https://www.acmicpc.net/problem/2193) |
