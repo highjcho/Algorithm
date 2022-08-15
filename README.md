@@ -57,3 +57,5 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 49 | Dynamic Programing | [백준 2193: 이친수](https://www.acmicpc.net/problem/2193) |
 | 50 | Brute Force | [백준 14889: 스타트와 링크](https://www.acmicpc.net/problem/14889) |
 | 51 | Dynamic Programing | [백준 1932: 정수 삼각형](https://www.acmicpc.net/problem/1932) |
+| 52 | Brute Force | [백준 1759: 암호 만들기](https://www.acmicpc.net/problem/1759) |
+
