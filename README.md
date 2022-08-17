@@ -59,3 +59,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 51 | Dynamic Programing | [백준 1932: 정수 삼각형](https://www.acmicpc.net/problem/1932) |
 | 52 | Brute Force | [백준 1759: 암호 만들기](https://www.acmicpc.net/problem/1759) |
 | 53 | BFS & DFS(DFS) | [백준 6603: 로또](https://www.acmicpc.net/problem/6603) |
+| 54 | Dynamic Programing | [백준 2156: 포도주 시식](https://www.acmicpc.net/problem/2156) |
