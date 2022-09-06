@@ -62,3 +62,4 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 54 | Dynamic Programing | [백준 2156: 포도주 시식](https://www.acmicpc.net/problem/2156) |
 | 55 | Brute Force | [백준 15686: 치킨 배달](https://www.acmicpc.net/problem/15686) |
 | 56 | Dynamic Programing | [백준 14501: 퇴사](https://www.acmicpc.net/problem/14501) |
+| 57 | Backtracking | [백준 15649: N과 M(1)](https://www.acmicpc.net/problem/15649) |
