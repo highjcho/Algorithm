@@ -1,8 +1,5 @@
 import sys
 
-
-import sys
-
 input = sys.stdin.readline
 n, m = map(int, input().split())
 ret = []
@@ -17,8 +14,4 @@ def dfs(i):
 			dfs(j)
 			ret.pop()
 
-# for i in range(1, n + 1):
-# 	ret.append(i)
-# 	dfs(i)
-# 	ret.clear()
 dfs(1)
