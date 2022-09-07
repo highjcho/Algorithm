@@ -63,3 +63,6 @@ posted on [velog](https://velog.io/@highcho/series/Algorithm)
 | 55 | Brute Force | [백준 15686: 치킨 배달](https://www.acmicpc.net/problem/15686) |
 | 56 | Dynamic Programing | [백준 14501: 퇴사](https://www.acmicpc.net/problem/14501) |
 | 57 | Backtracking | [백준 15649: N과 M(1)](https://www.acmicpc.net/problem/15649) |
+| 57 | Backtracking | [백준 15649: N과 M(2)](https://www.acmicpc.net/problem/15650) |
+| 57 | Backtracking | [백준 15649: N과 M(3)](https://www.acmicpc.net/problem/15651) |
+| 57 | Backtracking | [백준 15649: N과 M(4)](https://www.acmicpc.net/problem/15652) |
