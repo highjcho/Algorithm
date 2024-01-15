@@ -8,10 +8,9 @@ class Solution {
         for (int i = 0; i < want.length; i++)
             bag.put(want[i], number[i]);
         for (int i = 0; i < 10; i++) {
-            if (bag.containsKey(discount[i])) {
-                String obj = discount[i];
+			String obj = discount[i];
+            if (bag.containsKey(obj))
                 bag.put(obj, bag.get(obj) - 1);
-            }
         }
         if (Collections.max(bag.values()) <= 0)
             answer++;
