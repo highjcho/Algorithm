@@ -21,27 +21,22 @@ class Solution {
         List<FileName> tmp = new ArrayList<>();
         for (int i = 0; i < files.length; i++) {
             int j = -1;
-            while (!(0 <= files[i].charAt(++j) - '0' && files[i].charAt(j) - '0' <= 9))
-                continue;
+            while (!(0 <= files[i].charAt(++j) - '0' && files[i].charAt(j) - '0' <= 9));
             int k = j;
-            while (k < files[i].length() && (0 <= files[i].charAt(k) - '0' && files[i].charAt(k++) - '0' <= 9))
-                continue;
+            while (k < files[i].length() && (0 <= files[i].charAt(k) - '0' && files[i].charAt(k++) - '0' <= 9));
             tmp.add(new FileName(files[i].substring(0, j).toLowerCase(), Integer.parseInt(files[i].substring(j, k)), i));
         }
         Collections.sort(tmp, Comparator
                          .comparing((FileName o) -> o.head)
-                  .thenComparingInt(o -> o.num)
-                  .thenComparingInt(o -> o.idx));
+						 .thenComparingInt(o -> o.num)
+						 .thenComparingInt(o -> o.idx));
 
-        
         for (int i = 0; i < files.length; i++) {
             answer[i] = files[tmp.get(i).getIdx()];
         }
         
         return answer;
     }
-
-
 }
 
 import java.util.*;
@@ -64,7 +59,6 @@ class Solution {
                 int s1_j = s1_i, s2_j = s2_i;
                 while (s1_j < s1.length() && (0 <= s1.charAt(s1_j) - '0' && s1.charAt(s1_j++) - '0' <= 9));
                 while (s2_j < s2.length() && (0 <= s2.charAt(s2_j) - '0' && s2.charAt(s2_j++) - '0' <= 9));
-                
                 
                 int num1 = Integer.parseInt(s1.substring(s1_i, s1_j));
                 int num2 = Integer.parseInt(s2.substring(s2_i, s2_j));
