@@ -22,3 +22,15 @@ class Solution {
         return left + 1;
     }
 }
+
+class Solution {
+    public int solution(int[] A) {
+        long n = A.length + 1;
+        long sum = n * (n + 1) / 2;
+        
+        for (int i = 0; i < n - 1; i++)
+            sum -= A[i];
+
+        return (int) sum;
+    }
+}
